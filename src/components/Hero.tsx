@@ -28,7 +28,7 @@ const Hero = () => {
       <div className='flex items-center justify-center md:justify-start w-full md:w-2/4 p-4'>
 
         <div className='text-4xl md:text-8xl font-extrabold' data-aos="zoom-in" data-aos-duration="1000" >
-          <h1>I&aposm <br /> Ali <br /> Yousuf</h1>
+          <h1>I{&apos}m <br /> Ali <br /> Yousuf</h1>
         </div>
 
       </div>
